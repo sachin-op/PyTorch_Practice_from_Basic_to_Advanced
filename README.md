@@ -1,4 +1,4 @@
-# pytorch_practice_basic_code.py
+# 1.pytorch_practice_basic_code.py
 
 This file contains a beginner-friendly walkthrough of **PyTorch fundamentals**, covering tensor creation, operations, reshaping, GPU usage, and reproducibility — all crucial concepts for anyone starting out with deep learning using PyTorch.
 
